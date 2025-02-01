@@ -1,5 +1,7 @@
 # AdFLOW - Streamlining Ad Research
 
+Deployed AdFLOW : https://679e1c4a563cdaa25682cd34--fascinating-mandazi-53dc55.netlify.app/
+
 AdFLOW is a platform designed to streamline ad research by automating the gathering of insights and generating actionable data for better decision-making. This project leverages multiple APIs to provide comprehensive research automation, actionable insights generation, and a reference dashboard.
 
 ## Table of Contents
